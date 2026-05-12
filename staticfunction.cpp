@@ -19,4 +19,9 @@ public:
     {
         nim = pNim;
     };
+
+    static int getNim()
+    {
+        return nim;
+    };
 };
